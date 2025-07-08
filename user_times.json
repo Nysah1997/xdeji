@@ -1,0 +1,18 @@
+{
+  "1366547765810692156": {
+    "name": ".Cyprian",
+    "total_time": 52.52287,
+    "sessions": [],
+    "is_active": true,
+    "is_paused": false,
+    "pause_count": 1,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "last_start": "2025-07-04T01:17:23.145151",
+    "time_initiator": {
+      "admin_id": 1366547765810692156,
+      "admin_name": ".Cyprian",
+      "timestamp": "2025-07-04T01:16:11.064026"
+    }
+  }
+}
